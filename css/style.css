@@ -51,6 +51,7 @@ a {
 a:hover {
   color: blue;
 }
+
 /* style elements for index page */
 
 #index h1, #index h2, #info {
@@ -92,3 +93,6 @@ a:hover {
 #index h2 a:hover {
   color: blue;
 }
+
+/* style elements for expereinces page */
+
