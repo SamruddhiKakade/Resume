@@ -16,3 +16,9 @@ body {
   text-align: center;  
 }
 
+#nav li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 1rem;  
+}
+
