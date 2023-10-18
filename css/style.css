@@ -28,3 +28,7 @@ body {
   transition: color 0.3s;
   font-weight: bold;
 }
+
+#nav li a:hover {
+  color: blue;  
+}
