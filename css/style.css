@@ -123,3 +123,34 @@ a:hover {
   color: #999999;  
   margin-top: 2rem;  
 }
+
+/* Style elements for class_projects page */
+
+#class-projects-main h1 {
+  font-size: 2.5rem;
+  border-bottom: 2px dashed #666666; 
+  margin-bottom: 1.5rem;
+}
+
+#class-projects-main div {
+  background-color: #EFEFEF;  
+  border-radius: 5px;
+  margin-bottom: 1.5rem;
+}
+
+#class-projects-main div p:first-child {
+  font-size: 1.4rem;  
+  font-weight: bold;
+  color: #555555;
+  margin-bottom: 1rem;
+}
+
+#class-projects-main div strong {
+  color: #444444;
+}
+
+#class-projects-main div em {
+  color: #888888;
+  font-style: italic;
+}
+
