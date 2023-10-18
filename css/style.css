@@ -2,8 +2,8 @@
 
 body {
   font-family: sans-serif;  
-  background-color: #ffffff;  
-  color: #000000;  
+  background-color: #F5F5F5;  
+  color: #333333;  
   margin: 0;
   padding: 2rem;
   line-height: 1.5; 
@@ -45,4 +45,16 @@ body {
 
 #index h1, #index h2, #info {
   font-family: 'Dancing Script', cursive;
+}
+
+#index strong {
+  font-weight: bold;
+  color: #666666;
+  line-height: 1.6;
+}
+
+#index em {
+  font-style: italic;
+  color: #666666; 
+  line-height: 1.6;
 }
