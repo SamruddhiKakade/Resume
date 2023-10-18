@@ -43,3 +43,6 @@ body {
 
 /* style elements for index page */
 
+#index h1, #index h2, #info {
+  font-family: 'Dancing Script', cursive;
+}
