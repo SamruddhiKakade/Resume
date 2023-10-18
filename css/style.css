@@ -58,3 +58,10 @@ body {
   color: #666666; 
   line-height: 1.6;
 }
+
+.logo {
+  width: 50px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+}
