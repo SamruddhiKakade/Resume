@@ -9,3 +9,10 @@ body {
   line-height: 1.5; 
 }
 
+#nav {
+  background-color: #c0c0c0;
+  overflow: hidden;  
+  padding: 1rem 0;    
+  text-align: center;  
+}
+
